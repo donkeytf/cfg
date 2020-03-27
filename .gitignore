@@ -1,2 +1,9 @@
 
 classes cfgs/
+*.txt
+*.zip
+ *.log
+settings.scr
+360controller-linux.cfg
+
+
